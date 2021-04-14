@@ -7,3 +7,5 @@ spring:
   jpa:
     show-sql: false
     generate-ddl: true
+  product:
+    catogiry: fashion
